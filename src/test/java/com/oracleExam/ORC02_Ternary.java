@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class Or02_Ternary {
+public class ORC02_Ternary {
     public static void main(String[] args){
 
         int x = 5;

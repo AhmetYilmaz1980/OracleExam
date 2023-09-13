@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class StringManipulation {
+public class ORC04_StringManipulation {
     public static void main(String[] args){
         /**
          * 10. satira hangisi yazdirilirsa  konsolda "Equal" yazdirir

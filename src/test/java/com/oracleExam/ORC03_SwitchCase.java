@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class SwitchCase {
+public class ORC03_SwitchCase {
     public static void main(String[] args) {
         final char a = 'A', d = 'D'; // final keyword variable nin son degerini belirler
                                      //Das Schlüsselwort final bestimmt den Endwert der Variablen

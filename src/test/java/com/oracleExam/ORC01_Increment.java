@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class ORc01_Increment {
+public class ORC01_Increment {
     public static void main (String[] args) {
 
         int num1= 9;

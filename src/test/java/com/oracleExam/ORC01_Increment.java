@@ -5,7 +5,8 @@ public class ORC01_Increment {
 
         int num1= 9;
 
-        int num2 = num1++;
+        int num2 = num1++; //önce atama yapilir sonra num1 bie artirilir
+                            //Zuerst wird die Zuordnung vorgenommen und dann die Anzahl um 1 erhöht.
 
         if(num2 < 10){
             System.out.println( num2 + " Hello World");

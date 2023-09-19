@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class ORC5_NullPointer {
+public class ORC05_NullPointer {
     public static void main(String[] args) {
         /** Soru :
          * int x = 0;

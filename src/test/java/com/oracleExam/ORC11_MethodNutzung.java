@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class ORC10_MethodNutzung {
+public class ORC11_MethodNutzung {
     public static long square(int x) { // 4. calisan satir
         long y = x * (long) x; // 5. calisan satir
         x = -1; // 6. calisan satir

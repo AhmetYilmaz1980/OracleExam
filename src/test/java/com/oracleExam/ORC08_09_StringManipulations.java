@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class ORC08_StringManipulations {
+public class ORC08_09_StringManipulations {
     public static void main(String[] args){
 
         String numbers = "012345678";

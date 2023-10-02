@@ -1,6 +1,6 @@
 package com.oracleExam;
 
-public class ORC09_methodCreation {
+public class ORC10_methodCreation {
     public static void main(String[] args) {
 
     }

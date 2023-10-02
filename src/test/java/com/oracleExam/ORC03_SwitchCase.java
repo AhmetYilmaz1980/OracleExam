@@ -18,14 +18,14 @@ public class ORC03_SwitchCase {
                     */
             case 'B':
                 System.out.print("great"); /**burada eslesme saglanigi icin "great" yazdirir
-                                           //Hier wird „großartig“ gedruckt, um eine Übereinstimmung sicherzustellen.
+                                           //Hier wird „great“ gedruckt, um eine Übereinstimmung sicherzustellen.
                                           //  "break" görünceye kadar calismaya devam eder
-                                          //Es läuft weiter, bis es „Pause“ sieht. */
+                                          //Es läuft weiter, bis es „break“ sieht. */
             case 'C':
                 System.out.print("good");
                 break;  /** break oldugu icin burada "good" yazdirip döngüden cikar
                         //Da es „break“ ist, gibt es hier „good“ aus und verlässt die Schleife.
-                       // println olmadigi icin yanyana yazar// "greatnotgood"
+                       // println olmadigi icin yanyana yazar// "greatgood"
                        //Da kein println vorhanden ist, wird nebeneinander geschrieben */
             case d:
             case 'F':

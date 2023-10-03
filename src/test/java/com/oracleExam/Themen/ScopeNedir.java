@@ -1,4 +1,4 @@
-package com.oracleExam;
+package com.oracleExam.Themen;
 
 public class ScopeNedir {
     static int sayi=5;
